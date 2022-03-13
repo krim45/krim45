@@ -4,7 +4,10 @@
 <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krim45)](https://github.com/krim45/github-readme-stats)</span> <span>[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinkb)](https://solved.ac/kevinkb)</span>
 
+### 활동
 
+- [2022.02 ~ ] 원티드 프리온보딩 프론트엔드 코스
+- [2021.08 ~ 2022.01] 코드스테이츠 웹개발 부트캠프
 <!--
 **krim45/krim45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
