@@ -6,7 +6,7 @@
 
 ### 활동
 
-- [2022.02 ~ ] 원티드 프리온보딩 프론트엔드 코스
+- [2022.02 ~ 2022.03] 원티드 프리온보딩 프론트엔드 코스
 - [2021.08 ~ 2022.01] 코드스테이츠 웹개발 부트캠프
 <!--
 **krim45/krim45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
