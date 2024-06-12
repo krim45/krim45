@@ -1,8 +1,5 @@
 ### 프론트엔드 개발자 김경봉입니다. 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrim45&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krim45)](https://github.com/krim45/github-readme-stats)</span>
-
 ### 활동
 
 - [2023.07 ~ ] 아로아랩스 프론트엔드 개발자
